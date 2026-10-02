@@ -1,0 +1,6 @@
+{
+  "name": "Sweatup – The Luxury Gym",
+  "description": "Premium luxury gym in Vaishali Nagar, Jaipur. Modern equipment, spacious floors, and personalized fitness guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
